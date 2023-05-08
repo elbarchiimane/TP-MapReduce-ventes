@@ -1,4 +1,4 @@
-# TP-MapReduce-ventesù
+# TP-MapReduce-ventes
 <h1> Job qui permet de calculer les ventes pour chaque ville par année </h1>
 <h2> Mapper </h2>
 <img src="captures/code.png"/>
